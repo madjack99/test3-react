@@ -1,0 +1,45 @@
+.wrapper {
+  padding: 30px;
+  border: 1px solid black;
+  display: inline-block;
+}
+.grid-container {
+  width: 400px;
+  height: 400px;
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px 100px;
+}
+
+.square {
+  background-color: #fff;
+  border: 2px solid grey;
+}
+
+.red {
+  background: red;
+}
+.orange {
+  background: orange;
+}
+.yellow {
+  background: yellow;
+}
+.green {
+  background: green;
+}
+.skyblue {
+  background: skyblue;
+}
+.blue {
+  background: blue;
+}
+.violet {
+  background: violet;
+}
+.black {
+  background: black;
+}
+.hide {
+  background: #fff;
+}
