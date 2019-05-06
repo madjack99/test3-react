@@ -1,0 +1,15 @@
+.win-window {
+  border: 1px solid black;
+  padding: 15px;
+  position: relative;
+}
+
+.win-window .ok-btn {
+  background: skyblue;
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: none;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
